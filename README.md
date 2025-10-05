@@ -32,7 +32,7 @@ KrishiAI/
 ├── final.ipynb  Model building and analysis notebook
 ├── Soil_Quality_Classifier  It uses a saved model to translate raw soil data into a simple fertility label
 ├── random_forest_pkl.pkl  Pre-trained ML model
-├── Soil_Analysis_Report.html  YData profiling report
+├── Soil_Data.html  YData profiling report
 ```
 
 ---
